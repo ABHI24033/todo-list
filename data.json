@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "task": "Buy groceries",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "task": "Do laundry",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "task": "Do laundry",
+      "completed": true
+    },
+    {
+      "id": "593e",
+      "completed": true,
+      "task": "some data addes"
+    },
+    {
+      "id": "e90f",
+      "completed": false,
+      "task": "some addes"
+    },
+    {
+      "id": "77cc",
+      "completed": false,
+      "task": "some addes"
+    }
+  ]
+}
